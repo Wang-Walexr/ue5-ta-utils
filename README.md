@@ -17,6 +17,10 @@ Naming convention validation.
 - name_checker.py : scans folder for convention violations
 - (EUW version available in separate repo)
 
+### texture_audit tool
+Audit textures
+- find_oversized_textures.py : Scan folder for oversized textures
+
 ## Usage
 
 Run any script via UE5's Python console:
