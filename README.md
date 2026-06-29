@@ -21,6 +21,10 @@ Naming convention validation.
 Audit textures
 - find_oversized_textures.py : Scan folder for oversized textures
 
+### scene_statistics tool
+Get the statisctics of objects in the scene
+- get_scene_stats.py : Scan the level to get scene statistics. Check the Outliner for object/asset type and add to the map in the script.
+
 ## Usage
 
 Run any script via UE5's Python console:
